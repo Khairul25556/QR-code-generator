@@ -14,7 +14,7 @@ A simple and efficient **QR Code Generator** built using the [GOQR.me API](https
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/QR-Code-Generator.git
+   git clone https://github.com/Khairul25556/QR-code-generator.git
    ```
 2. Navigate to the project folder:
    ```sh
